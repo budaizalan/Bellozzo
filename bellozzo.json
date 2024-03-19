@@ -1,0 +1,105 @@
+{
+    "menu": [
+        {
+            "pastas": [
+                {
+                    "id": 1,
+                    "name": "PASTA IN BIANCO",
+                    "description": "Krémes közönségkedvenc a vaj és a Grana Padano ínycsiklandó találkozásából.",
+                    "price_classico": "2140",
+                    "price_grande": "2530"
+                },
+
+                {
+                    "id": 2,
+                    "name": "POMODORO",
+                    "description": "Napérlelte paradicsom és friss bazsalikom? Nem is kell más, tésztára velük, most azonnal!",
+                    "price_classico": "2120",
+                    "price_grande": "2510"
+                },
+
+                {
+                    "id": 3,
+                    "name": "PESTO",
+                    "description": "A bazsalikom, a fokhagyma és a fenyőmag zöld utat ad ízlelőbimbóid elcsábítására.",
+                    "price_classico": "2340",
+                    "price_grande": "2790"
+                },
+
+                {
+                    "id": 4,
+                    "name": "ARRABBIATA",
+                    "description": "Ezt a csípős, paradicsomos-fokhagymás tésztát garantáltan csípni fogod!",
+                    "price_classico": "2040",
+                    "price_grande": "2420"
+                },
+
+                {
+                    "id": 5,
+                    "name": "BOLOGNESE",
+                    "description": "Paradicsomos marha- és sertésragu, ahogy anyukád főzné - ha vérbeli olasz donna lenne.",
+                    "price_classico": "2620",
+                    "price_grande": "3140"
+                },
+
+                {
+                    "id": 6,
+                    "name": "CARBONARA",
+                    "description": "A baconnél csak egy jobb dolog van: ha tejszínnel, pecorino sajttal és tésztával társul.",
+                    "price_classico": "2240",
+                    "price_grande": "2690"
+                },
+
+                {
+                    "id": 7,
+                    "name": "CACCIATORE",
+                    "description": "A csirkepaprikás mascarponéval és Grana Padanoval alkot mennyei olasz-magyar elegyet.",
+                    "price_classico": "2640",
+                    "price_grande": "3190"
+                },
+
+                {
+                    "id": 8,
+                    "name": "PASTA SCAMPI",
+                    "description": "Maga a riviéra, garnélával, koktélparadicsommal és citrussal garantálja a napfény ízét.",
+                    "price_classico": "3540",
+                    "price_grande": "4290"
+                },
+
+                {
+                    "id": 9,
+                    "name": "GNOCCHI SORRENTINO",
+                    "description": "Gnocchi tejszínes paradicsomszósszal, Padanoval, mozzarellával és paradicsommal.",
+                    "price_classico": "2820",
+                    "price_grande": "3540"
+                },
+
+                {
+                    "id": 10,
+                    "name": "FUNGHI DI BOSCO",
+                    "description": "Válogatott erdei és vargányagombák fehérboros mártásban alkotnak pompás párosítást.",
+                    "price_classico": "3420",
+                    "price_grande": "4090"
+                }
+            ],
+
+            "pizzas": [
+                {
+                    "id": 1,
+                    "name": "QUATTRO FORMAGGI",
+                    "description": "A gorgonzola, pecorino, Padano és mozzarella életre kelnek a rukkolától ezen a pizzán.",
+                    "price_classico": "2290",
+                    "price_grande": "2990"
+                },
+
+                {
+                    "id": 2,
+                    "name": "BIANCA",
+                    "description": "Mascarponés alapon összeolvadó mozzarella és Grana Padano, balzsamecettel és bazsalikommal koronázva.",
+                    "price_classico": "2290",
+                    "price_grande": "2990"
+                }
+            ]
+        }
+    ]
+}
